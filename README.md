@@ -11,7 +11,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='10'>] CSS
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' height='10'>] Bootstrap , 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='10'>] JavaScript, jQuery, AJAX
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='10'>] Cloud Computing (Salesforce | AWS)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='10'>] Cloud Computing (AWS)
 
 
 ### 👨‍💻 Programming and markup languages
