@@ -65,13 +65,3 @@
 <hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smitabharat" alt="smitabharat" /></a> </p>
-
-
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitabharat&show_icons=true&locale=en" alt="smitabharat" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smitabharat&" alt="smitabharat" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smitabharat&show_icons=true&locale=en&layout=compact" alt="smitabharat" /></p>
-
-
